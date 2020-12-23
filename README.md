@@ -1,6 +1,6 @@
 # PanColorGAN
  Rethinking CNN-Based Pansharpening: Guided Colorization of Panchromatic Images via GANs.
-# Journal Paper
+# Paper
  If you find our work beneficial, consider citing the following paper:
 
  F. Ozcelik, U. Alganci, E. Sertel and G. Unal, "Rethinking CNN-Based Pansharpening: Guided Colorization of Panchromatic Images via GANs," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2020.3010441
